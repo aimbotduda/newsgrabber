@@ -7,7 +7,7 @@ month = datetime.today().strftime('%Y-%m')
 
 url = ('https://newsapi.org/v2/top-headlines?'
        'language=en&'
-       'apiKey=yourapihere')
+       'apiKey=YOURAPIKEYHERE')
 response = requests.get(url)
 
 data = json.loads(response.text)
