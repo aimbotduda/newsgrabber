@@ -1,4 +1,4 @@
 # newsgrabber
 just a random idea
 
-add ur api key
+change ur path name & add ur api key
